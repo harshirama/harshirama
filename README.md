@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshirama
+- 👋 Hi, I’m @thanoj
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
